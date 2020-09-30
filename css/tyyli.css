@@ -1,0 +1,10 @@
+.container-fluid{
+    padding-top: 70px;
+}
+
+input[type=file]{
+    margin-bottom: 15px;
+}
+body{
+    padding-left: 15px;
+}
